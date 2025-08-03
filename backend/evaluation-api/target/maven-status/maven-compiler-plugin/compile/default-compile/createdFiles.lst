@@ -1,0 +1,5 @@
+com\yourorg\devopslearning\evaluationapi\EvaluationApplicationApi.class
+com\yourorg\devopslearning\evaluationapi\controller\EvaluationController.class
+com\yourorg\devopslearning\evaluationapi\repository\EvaluationRepository.class
+com\yourorg\devopslearning\evaluationapi\service\EvaluationService.class
+com\yourorg\devopslearning\evaluationapi\model\Evaluation.class
